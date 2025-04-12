@@ -7,12 +7,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahsan-4894&label=Profile%20views&color=0e75b6&style=flat" alt="ahsan-4894" />
-</p>
-
----
-
 ### 🚀 About Me
 
 - 🔭 I’m currently working on building scalable and secure **backend applications** using **NestJS** & **Express.js**.
