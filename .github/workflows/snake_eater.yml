@@ -3,29 +3,29 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 */6 * * *"  # every 6 hours
-  workflow_dispatch:
+  workflow_dispatch:        # manual trigger option
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout your repository
-      - name: Checkout
+      # Step 1: Checkout your repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Generate the snake animation (SVG only — v3 doesn't support GIF anymore)
-      - name: Generate Snake SVG
-        uses: Platane/snk/svg-only@v3
+      # Step 2: Generate snake SVG and output it to the output branch
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: sudoshivesh
-          outputs: dist
+          outputs: ./dist  # 👈 THIS CREATES THE BUILD DIR TO FIX THE ERROR
 
-      # Deploy the snake SVG to the output branch
+      # Step 3: Push to 'output' branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: dist  # 👈 MATCHES 'outputs' ABOVE
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
