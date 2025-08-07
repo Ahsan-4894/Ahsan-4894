@@ -15,7 +15,7 @@
 - ✍ I write regularly on [Medium](https://medium.com/@ahsan.130104) about backend development & dev tips.
 - 💬 Ask me about `SpringBoot`, `Spring`,`Java`, `Node.js`, `Express`, `Sockets`, `C/C++`, `React`, or anything backend related.
 - 📫 Reach me at: **mailahsan.4894@gmail.com**
-- ⚡ Fun fact: `console.log()` is my ride or die when debugging backend issues 😄
+- ⚡ Fun fact: `sout` is my ride or die when debugging backend issues 😄
 
 ---
 
