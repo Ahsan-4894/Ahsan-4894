@@ -9,11 +9,11 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on building scalable and secure **backend applications** using **NestJS** & **Express.js**.
-- 🌱 I’m currently learning **Advanced NestJS Patterns**, **Microservices**, and **Redis Streams**.
-- 🧠 I have experience with **Node.js**, **Docker**, **PostgreSQL**, **MongoDB**, and **RabbitMQ**.
+- 🔭 I’m currently working on building scalable and secure **backend applications** using **SpringBoot** & **Spring**.
+- 🌱 I’m currently learning **Advanced SpringBoot Patterns**, **Microservices**, and **Redis Streams**.
+- 🧠 I have experience with **Java**,**SpringBoot**, **Spring**, **Node.js**, **Docker**, **PostgreSQL**, **MongoDB**, and **RabbitMQ**.
 - ✍ I write regularly on [Medium](https://medium.com/@ahsan.130104) about backend development & dev tips.
-- 💬 Ask me about `Node.js`, `Express`, `NestJS`, `Sockets`, `C/C++`, `React`, or anything backend related.
+- 💬 Ask me about `SpringBoot`, `Spring`,`Java`, `Node.js`, `Express`, `Sockets`, `C/C++`, `React`, or anything backend related.
 - 📫 Reach me at: **mailahsan.4894@gmail.com**
 - ⚡ Fun fact: `console.log()` is my ride or die when debugging backend issues 😄
 
