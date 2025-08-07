@@ -32,6 +32,9 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original-wordmark.svg" width="40" title="Java"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/spring/spring-original-wordmark.svg" width="40" title="Spring"/>
+  <img src="https://seeklogo.com/vector-logo/385503/spring-boot?utm_source=chatgpt.com" width="40" title="SpringBoot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
   <img src="https://nestjs.com/img/logo-small.svg" width="40" title="NestJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" title="GraphQL"/>
